@@ -1,0 +1,172 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+/* tittle */
+#tittle{
+    color:#fff;
+    background-color: blue;
+}
+.text{
+    text-align: center;
+}
+.th1{
+    margin-left: 40px;
+    font-family:montserrat-black ;
+    font-size:4.5rem ;
+    line-height: 1.5;
+    padding-top: 90px;
+}
+.para1{
+    font-size: 2.5rem;
+}
+span{
+    border:none;
+    border-bottom: 3px solid rgb(128, 240, 128);
+    font-weight: bolder;
+}
+/*navabar*/
+.navbar-brand{
+    margin-left: 50px;
+    font-family: ubuntu;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.navbar{
+   
+    padding-top: 0%;
+    
+
+}
+.nav-item{
+    padding:0 18px;
+   
+
+    
+}
+.nav-link{
+    font-family:montserrat-light ;
+    font-size: 1.2rem;
+}
+.down-btn{
+    border-radius: 20px;
+    
+    background-color: rgb(128, 240, 128);
+    color: #fff;
+    padding:9px 55px;
+    
+}
+/*title image*/
+.title-img{
+    width:70%;
+    height: 95%;
+  padding-left: 12%;
+  margin-left:20%;
+  margin-top: 20px;
+  /* margin-top: 2%; */
+} 
+
+/* about */
+.about-image{
+    width: 70%;
+    height: 50%;
+    margin-top: 180px;
+    margin-left: 20px;
+}
+.abtext{
+    margin-top: 100px; 
+}
+.Enim{
+    color: dodgerblue;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 100px;
+}
+
+/* Features */
+#Features{
+    margin-left: 50px;   
+}
+.magi{
+    padding: 1%;
+    font-size: x-large;
+}
+.p{
+    margin: 0 6px 10px 0;
+}
+.fh{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#gallery{
+    padding: 20PX;
+}
+/* TEAM */
+
+.tx{
+    color: dodgerblue;
+}
+.Walter{
+    margin-left: 30px;
+}
+.Chief{
+    padding: 20px;
+    position: relative;
+    left: 30px;
+}
+/* pricing */
+.botton{
+    /* padding-left: 80px; */
+    text-align: center;
+}
+/*fQA*/
+
+#fqa{
+    padding: 5% 3%;
+    margin: 10px;
+    background-color: rgba(0,0,0,.125);
+}
+.question-icon{
+    color:rgba(58, 240, 179, 0.637);
+    padding-right: 10px;
+}
+#naren{
+    margin:2% 0%;
+    padding: 3% 0%;
+}
+a{
+    color:black;
+    padding:1% 0%;
+    border-radius: 0%;
+    width: 100%;
+}
+a:hover{
+    text-decoration: none;
+    background-color: none;
+    color:rgba(58, 240, 179, 0.637);
+}
+/*footer*/
+#ctp{
+    background-color:rgba(3, 3, 47, 0.925);
+    color:#fff;
+    padding:3% 3% ;
+}
+footer{
+    padding-top: 10% ;
+
+
+}
+.icon-foot{
+    padding:2% 2%;
+}
+.team{
+    margin-left: 1%;
+}
+.price{
+    margin-left: 1%;
+}
+.text-img{
+ 
+    margin-left: 600px;
+   
+}
